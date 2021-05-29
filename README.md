@@ -1,4 +1,5 @@
 __1. SQL-Basics_1:__ create table, insert into, SELECT * FROM table_name, SELECT TOP 5*, SELECT DISTINCT, aggregating with count(), min(), max(), avg(), sum()
+
 __2. SQL Basics_2:__  WHERE Statement:
 	       The WHERE clause is used to filter records.
          It is used to extract only those records that fulfill a specified condition.

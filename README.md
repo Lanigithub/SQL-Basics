@@ -11,7 +11,7 @@ __2. SQL Basics_2:__  WHERE Statement:
 _**3. SQL-Basics_3:\
 SQL JOIN**_\
 __A JOIN clause__ is used to combine rows from two or more tables, based on a related column between them.\
-__1.Here are the different types of the JOINs in SQL:\
+__1. Here are the different types of the JOINs in SQL:\
 __2.(INNER) JOIN:__ Returns records that have matching values in both tables\
 __3.LEFT (OUTER) JOIN:__ Returns all records from the left table, and the matched records from the right table\
 __4.RIGHT (OUTER) JOIN:__ Returns all records from the right table, and the matched records from the left table\

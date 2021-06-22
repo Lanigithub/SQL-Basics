@@ -8,7 +8,7 @@ __2. SQL Basics_2:__  WHERE Statement:
                       WHERE condition; 
           Operators in The WHERE Clause:   = , <> ( not equal), >, < , like 'a%'( wildcards) or ' _a' or h(a-c), in( a,b), between a and b , is null, is not null
 	  
-__3. SQL-Basics_3: SQL JOIN
+_*3. SQL-Basics_3: SQL JOIN*_
 A JOIN clause is used to combine rows from two or more tables, based on a related column between them.
 Here are the different types of the JOINs in SQL:
 **(INNER) JOIN: Returns records that have matching values in both tables

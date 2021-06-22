@@ -9,9 +9,9 @@ __2. SQL Basics_2:__  WHERE Statement:\
           Operators in The WHERE Clause:   = , <> ( not equal), >, < , like 'a%'( wildcards) or ' _a' or h(a-c), in( a,b), between a and b , is null, is not null
 	  
 __**3. SQL-Basics_3:__\
-\***SQL JOIN***\  \
+\***SQL JOIN***\  
 __A JOIN clause__ is used to combine rows from two or more tables, based on a related column between them.\
-__Here are the different types of the JOINs in SQL:\
+__Here are the different types of the JOINs in SQL:__\
 __1.(INNER) JOIN:__ Returns records that have matching values in both tables\
 __2.LEFT (OUTER) JOIN:__ Returns all records from the left table, and the matched records from the right table\
 __3.RIGHT (OUTER) JOIN:__ Returns all records from the right table, and the matched records from the left table\
